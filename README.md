@@ -1,0 +1,1 @@
+# Blog_Function_Base_view
